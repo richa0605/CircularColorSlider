@@ -13,6 +13,7 @@
 		A1EE21112D5E161A00075109 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = A1EE21102D5E161A00075109 /* Base */; };
 		A1EE21132D5E161C00075109 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1EE21122D5E161C00075109 /* Assets.xcassets */; };
 		A1EE21162D5E161C00075109 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = A1EE21152D5E161C00075109 /* Base */; };
+		A1EE211E2D5E167600075109 /* CircularProgress.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1EE211D2D5E167600075109 /* CircularProgress.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A1EE21122D5E161C00075109 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A1EE21152D5E161C00075109 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A1EE21172D5E161C00075109 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A1EE211D2D5E167600075109 /* CircularProgress.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircularProgress.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A1EE21092D5E161A00075109 /* AppDelegate.swift */,
 				A1EE210B2D5E161A00075109 /* SceneDelegate.swift */,
 				A1EE210D2D5E161A00075109 /* ViewController.swift */,
+				A1EE211D2D5E167600075109 /* CircularProgress.swift */,
 				A1EE210F2D5E161A00075109 /* Main.storyboard */,
 				A1EE21122D5E161C00075109 /* Assets.xcassets */,
 				A1EE21142D5E161C00075109 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A1EE211E2D5E167600075109 /* CircularProgress.swift in Sources */,
 				A1EE210E2D5E161A00075109 /* ViewController.swift in Sources */,
 				A1EE210A2D5E161A00075109 /* AppDelegate.swift in Sources */,
 				A1EE210C2D5E161A00075109 /* SceneDelegate.swift in Sources */,
